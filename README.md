@@ -1,6 +1,5 @@
 # Data-Analysis-for-NYC-Service-
-Perform a service request data analysis of New York City 311 calls. Focusing on the data wrangling techniques to understand the pattern in the data and also visualize the major complaint types.
-To perform these tasks, you can use the different Python libraries such as NumPy, SciPy, Pandas, scikit-learn, matplotlib.
+To perform these tasks, we use the different Python libraries such as NumPy, SciPy, Pandas, scikit-learn, matplotlib.
 
 Performing a service request data analysis of New York City 311 calls. Focusing on the data wrangling techniques to understand the pattern in the data and also visualize the major complaint types.
 
